@@ -1,4 +1,6 @@
 {
+  "name":"MyGithubComponent6",
+  "namespace":"tla.EAM",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
