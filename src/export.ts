@@ -1,2 +1,3 @@
-import System from "./2_services/System.class"
+import { System } from "./2_systems/System.class"
+
 export { System }
